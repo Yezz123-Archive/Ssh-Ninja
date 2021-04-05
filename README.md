@@ -12,3 +12,13 @@
 ```
 pip install pexpect
 ```
+
+### Usage
+
+```shell
+git clone https://github.com/yezz123/Ssh-Ninja.git
+
+cd Ssh-Ninja
+
+python3 Ninja-brute.py host user passwords_list
+```
