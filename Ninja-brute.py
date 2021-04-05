@@ -38,7 +38,7 @@ def connect(host, user, password, release):
 def main():
 
     if len(argv) < 4:
-        print ('Usage: Ssh-Ninja.py host user passwords_list')
+        print ('Usage: Ninja-brute.py host user passwords_list')
         return
 
     host = argv[1]
